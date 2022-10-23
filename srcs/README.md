@@ -1,4 +1,4 @@
-**collect.sql**
+##### collect.sql
   this script creates tables, it must be run at first
-**class.sql, subject.sql, professor.sql, student.sql, group.sql**
+##### class.sql, subject.sql, professor.sql, student.sql, group.sql**
   these srcipts fill the tables
